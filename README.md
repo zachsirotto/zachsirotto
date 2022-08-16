@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zachsirotto
-- 👀 I’m interested in backend development, blockchain, and learning new things.
-- 🌱 I’m currently learning Go, Terraform, and Tekton.
+- 👀 I’m interested in backend development, machine learning, and video games.
+- 🌱 I’m currently...
 - 💞️ I’m looking to collaborate on... 
 - 📫 How to reach me: zsirotto@merative.com
 
