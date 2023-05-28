@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @zachsirotto
 - 👀 I’m interested in backend development, machine learning, and video games.
-- 🌱 I’m currently working on https://github.com/LinuxForHealth!
 - 📫 How to reach me: zsirotto@merative.com
 
 <!---
